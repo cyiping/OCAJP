@@ -1,5 +1,5 @@
 package course.c06;
-
+  
 public class ImmutableDemo {
 
 	public static void main(String[] args) {
