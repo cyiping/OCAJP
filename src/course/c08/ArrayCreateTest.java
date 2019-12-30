@@ -13,6 +13,6 @@ public class ArrayCreateTest {
 
 		int[][][] a6 = new int[5][][];
 		int a7[][][] = new int[5][3][2];
-
+		
 	}
 }
