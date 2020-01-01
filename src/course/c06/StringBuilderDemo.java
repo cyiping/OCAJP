@@ -13,7 +13,7 @@ public class StringBuilderDemo {
 		System.out.println("sb1: " + sb1.toString());
 		System.out.println("sb1 object capacity: " + sb1.capacity());
 		System.out.println("sb1 sub string: " + sb1.substring(0, 5));
-		System.out.println("sb1 sub string: " + sb1.substring(0, 10)); 	// error at runtime
+		// System.out.println("sb1 sub string: " + sb1.substring(0, 10)); 	// error at runtime
 
 		StringBuilder sb2 = new StringBuilder();
 		sb2.append("123456789");
