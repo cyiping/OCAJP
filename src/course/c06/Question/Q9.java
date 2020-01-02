@@ -9,7 +9,7 @@ public class Q9 {
 		sb.delete(13, 23);
 		System.out.println(sb);
 		sb.append("Big SB!");
-		System.out.println(sb);
+		System.out.println(sb);  
 
 	}
 
