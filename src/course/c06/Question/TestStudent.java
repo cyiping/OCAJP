@@ -1,4 +1,4 @@
-package course.c06;
+package course.c06.Question;
 
 class Student {
 	public String name = "";
